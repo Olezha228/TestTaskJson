@@ -1,0 +1,17 @@
+D:\AspNetProjects\TestTaskJson\TestTaskJson\bin\Debug\net6.0\TestTaskJson.exe
+D:\AspNetProjects\TestTaskJson\TestTaskJson\bin\Debug\net6.0\TestTaskJson.deps.json
+D:\AspNetProjects\TestTaskJson\TestTaskJson\bin\Debug\net6.0\TestTaskJson.runtimeconfig.json
+D:\AspNetProjects\TestTaskJson\TestTaskJson\bin\Debug\net6.0\TestTaskJson.dll
+D:\AspNetProjects\TestTaskJson\TestTaskJson\bin\Debug\net6.0\TestTaskJson.pdb
+D:\AspNetProjects\TestTaskJson\TestTaskJson\obj\Debug\net6.0\TestTaskJson.csproj.AssemblyReference.cache
+D:\AspNetProjects\TestTaskJson\TestTaskJson\obj\Debug\net6.0\TestTaskJson.GeneratedMSBuildEditorConfig.editorconfig
+D:\AspNetProjects\TestTaskJson\TestTaskJson\obj\Debug\net6.0\TestTaskJson.AssemblyInfoInputs.cache
+D:\AspNetProjects\TestTaskJson\TestTaskJson\obj\Debug\net6.0\TestTaskJson.AssemblyInfo.cs
+D:\AspNetProjects\TestTaskJson\TestTaskJson\obj\Debug\net6.0\TestTaskJson.csproj.CoreCompileInputs.cache
+D:\AspNetProjects\TestTaskJson\TestTaskJson\obj\Debug\net6.0\TestTaskJson.dll
+D:\AspNetProjects\TestTaskJson\TestTaskJson\obj\Debug\net6.0\refint\TestTaskJson.dll
+D:\AspNetProjects\TestTaskJson\TestTaskJson\obj\Debug\net6.0\TestTaskJson.pdb
+D:\AspNetProjects\TestTaskJson\TestTaskJson\obj\Debug\net6.0\TestTaskJson.genruntimeconfig.cache
+D:\AspNetProjects\TestTaskJson\TestTaskJson\obj\Debug\net6.0\ref\TestTaskJson.dll
+D:\AspNetProjects\TestTaskJson\TestTaskJson\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\AspNetProjects\TestTaskJson\TestTaskJson\obj\Debug\net6.0\TestTaskJson.csproj.CopyComplete

@@ -1,0 +1,13 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=760a68a9_002D4a80_002D42fb_002Db458_002D2bb7a443f32f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GroupBrigadeCodeWithConflictDevices_WhenDevicesInfoIsNull_ExceptionThrownExpected" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::EF7AE341-9717-44B6-B74A-5DDFC0B61104::net6.0::TestTaskJsonTests.DeviceServiceTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=aeb09882_002Dc91b_002D411e_002D93f7_002D316aad59ea12/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="StoreConflictBrigadeDevicesGroups_WhenRepositoryIsNull_ExceptionExpected" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::EF7AE341-9717-44B6-B74A-5DDFC0B61104::net6.0::TestTaskJsonTests.DeviceServiceTests.StoreConflictBrigadeDevicesGroups_WhenRepositoryIsNull_ExceptionExpected&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:Boolean x:Key="/Default/UserDictionary/Words/=_0431_0440_0438_0433_0430_0434_044B/@EntryIndexedValue">True</s:Boolean></wpf:ResourceDictionary>
