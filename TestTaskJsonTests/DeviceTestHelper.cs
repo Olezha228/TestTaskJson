@@ -29,7 +29,6 @@ internal class DeviceTestHelper
         };
     }
 
-    //DevicesInfoContainsBrigadeDevicesGroupsAndAllDevicesOffline
     public static IEnumerable<DeviceInfo> CreateBrigadeDevicesGroupsAndAllDevicesInGroupsOffline()
     {
         return new List<DeviceInfo>
@@ -62,7 +61,6 @@ internal class DeviceTestHelper
         };
     }
 
-    //DevicesInfoContainsBrigadeDevicesGroupsAndAllDevicesOffline
     public static IEnumerable<DeviceInfo> CreateBrigadeDevicesGroupsAndAnyDeviceInGroupsOnline()
     {
         return new List<DeviceInfo>
