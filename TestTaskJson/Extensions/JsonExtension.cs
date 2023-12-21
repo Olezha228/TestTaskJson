@@ -1,5 +1,4 @@
-﻿using System.Text.Json;
-using Newtonsoft.Json;
+﻿using Newtonsoft.Json;
 
 namespace TestTaskJson.Extensions;
 
@@ -38,11 +37,13 @@ internal static class JsonExtension
         try
         {
             result = JsonConvert.DeserializeObject<T?>(value)!;
+
             return true;
         }
         catch
         {
             result = default!;
+
             return false;
         }
     }
@@ -56,7 +57,6 @@ internal static class JsonExtension
     {
         ArgumentNullException.ThrowIfNull(value);
 
-        var options = new JsonSerializerOptions { WriteIndented = true };
         return JsonConvert.SerializeObject(value, Formatting.Indented);
     }
 
