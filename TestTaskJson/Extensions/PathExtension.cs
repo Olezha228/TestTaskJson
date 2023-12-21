@@ -1,5 +1,8 @@
 ﻿namespace TestTaskJson.Extensions;
 
+/// <summary>
+/// Класс-расширение для путей в файловой системе
+/// </summary>
 public static class PathExtension
 {
     public static string? GetCurrentProjectDirectory()
