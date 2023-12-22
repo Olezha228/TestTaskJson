@@ -91,7 +91,7 @@ public class DeviceServiceTests
         // Act
         var result = DeviceService.StoreConflictBrigadeDevicesGroups(repository).Result.Error;
 
-        // Act and Assert
+        // Assert
         Assert.That(result, Is.EqualTo(DeviceErrors.NoDevicesInfo));
     }
 
@@ -105,7 +105,7 @@ public class DeviceServiceTests
         // Act
         var result = DeviceService.StoreConflictBrigadeDevicesGroups(repository).Result.Error;
 
-        // Act and Assert
+        // Assert
         Assert.That(result, Is.EqualTo(DeviceErrors.NoDevicesInfo));
     }
 
@@ -119,7 +119,7 @@ public class DeviceServiceTests
         // Act
         var result = DeviceService.StoreConflictBrigadeDevicesGroups(repository).Result;
 
-        // Act and Assert
+        // Assert
         repository.Received(1).InsertConflicts(Arg.Any<IEnumerable<Conflict>>());
         Assert.That(result.IsSuccess, Is.True);
 
